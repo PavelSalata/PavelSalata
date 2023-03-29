@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PavelSalata
 - 👀 I’m interested in machine learning and game development 
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game dev 
 - 📫 How to reach me:http://linkedin.com/in/pasha-salata-b91485258
 
